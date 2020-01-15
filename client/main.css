@@ -1,0 +1,146 @@
+body {
+    font-family: Helvetica, serif;
+    color: #ffffff !important;
+}
+
+.top-nav {
+    background-color: #474747;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 300;
+    color: #ffffff !important;
+}
+
+.hero {
+    height: 200px;
+    background-color: #4e4e4e;
+    margin-bottom: 38px;
+}
+
+.form-container {
+    padding-top: 38px;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.helper-text {
+    font-size: 14px;
+    padding-left: 5px;
+    color: #838383;
+}
+
+.empty-forecast {
+    border-radius: 12px !important;
+    background-color: #f9f9f9 !important;
+    color: #000000;
+}
+
+.search-text {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.weather-label {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #838383;
+}
+
+.weather-value {
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+.list-item {
+    height: 78px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    position:relative;
+    margin-bottom:15px;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    border: solid 1px #c5c5c5;
+    color: #000000;
+}
+
+.ideal-day{
+    border: solid 2px #69dca5;
+}
+
+.summary-text {
+    font-size: 24px;
+    color: #000000;
+}
+
+.list-item-error {
+    height: 90px;
+    border-radius: 12px;
+    background-color: #f9f9f9;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+    border: solid 1px #e23838;
+}
+
+button i.material-icons {
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.md-text {
+    font-size: 21px;
+}
+
+.lg-text {
+    font-size: 24px;
+}
+
+.xxl-text {
+    font-size: 44px;
+}
+.bold-text {
+    font-weight: bold;
+}
+
+.m-tb-auto{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #2192ff;
+    border-color: #2192ff;
+}
