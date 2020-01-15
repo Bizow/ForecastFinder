@@ -1,8 +1,8 @@
 
-###Install Meteor 
+### Install Meteor 
     curl https://install.meteor.com/ | sh
 
-##Update settings.json
+## Update settings.json
 https://darksky.net/dev/account
 
     {
@@ -11,5 +11,5 @@ https://darksky.net/dev/account
       }
     }
 
-##Run
+## Run
     meteor --settings settings.json
